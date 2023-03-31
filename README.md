@@ -14,4 +14,6 @@ The script uses the zipfile module in Python to create the ZIP file. It first ch
 
 The script is designed to be simple and easy to use, with clear prompts and minimal input required. It's perfect for when you need to quickly compress a directory and don't want to deal with the complexities of other compression tools.
 
+Documentation here: https://docs.python.org/3/library/zipfile.html
+
 So go ahead and give it a try! And if you have any questions or feedback, feel free to leave a comment or open an issue in the repository. Happy compressing!
